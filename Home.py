@@ -72,7 +72,7 @@ if __name__ == '__main__':
     main()
 
 st.markdown("<br><br><br>", unsafe_allow_html=True)
-st.write("Pour toute question/information : aima.mohammad.pro@gmail.com ")
+st.write(" ")
 st.markdown("---")
 st.write("IPM © 2024")
 
